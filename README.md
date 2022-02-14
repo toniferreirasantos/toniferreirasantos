@@ -1,6 +1,6 @@
 ## Olá world! Sou o Antonio Ferreira, desenvolvedor web!
 
-<a href="https://github.com/toniferreirasantos/toniferreirasantos.git"><img alt="VazActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=toniferreirasantos&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/toniferreirasantos/toniferreirasantos.git"><img alt="toniferreirasantos Graph" src="https://activity-graph.herokuapp.com/graph?username=toniferreirasantos&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <div align="center">
   <a href="https://github.com/toniferreirasantos">
