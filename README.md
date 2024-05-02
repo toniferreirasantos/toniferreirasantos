@@ -1,31 +1,26 @@
-## Olá world! Sou o Antonio Ferreira, desenvolvedor web!
+Hello World! Sou o Antonio Ferreira👋
 
-<a href="https://github.com/toniferreirasantos/toniferreirasantos.git"><img alt="toniferreirasantos Graph" src="https://activity-graph.herokuapp.com/graph?username=toniferreirasantos&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+## Dashboard
 
-<div align="center">
-  <a href="https://github.com/toniferreirasantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toniferreirasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toniferreirasantos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="toni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="toni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="toni-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="toni-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img align="center" alt="toni-JQUERY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-  <img align="center" alt="toni-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="toni-MYSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="toni-FIREBASE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />  
+<div align="center" style="white-space: nowrap;">
+ <a href="https://github.com/toniferreirasantos">
+   <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=toniferreirasantos&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="toniferreirasantos" />
+ </a>
+ <a href="https://github.com/toniferreirasantos">
+   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=toniferreirasantos&theme=slateorange&show_icons=true" alt="toniferreirasantos" />
+ </a>
 </div>
 
-##
+## Stack
 
-<div>   
-  <a href = "mailto:toniferreirasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/antonio-ferreira-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/toniferreirasantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![REACT](https://shields.io/badge/REACT-black?logo=react&style=for-the-badge?style=for-the-badge&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/laravel-eb4432?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firestore-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
 
-<!--  Créditos à maravilhosa Rafaella Ballerini (rafaballerini) -->
