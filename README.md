@@ -2,13 +2,10 @@ Hello World! Sou o Antonio Ferreira👋
 
 ## Dashboard
 
-<div align="center" style="white-space: nowrap;">
- <a href="https://github.com/toniferreirasantos">
-   <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=toniferreirasantos&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="toniferreirasantos" />
- </a>
- <a href="https://github.com/toniferreirasantos">
-   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=toniferreirasantos&theme=slateorange&show_icons=true" alt="toniferreirasantos" />
- </a>
+<div align="center" style="white-space: nowrap">
+  <img align="center" height="160" src="https://github-readme-streak-stats.herokuapp.com?user=toniferreirasantos&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="toniferreirasantos" />
+ 
+  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toniferreirasantos&layout=compact&theme=slateorange" alt="toniferreirasantos"/>
 </div>
 
 ## Stack
